@@ -1,38 +1,28 @@
-# Cronômetro JS
+# ⏱️ Cronômetro JS Responsivo
 
-Um cronômetro simples, responsivo e elegante feito com **HTML**, **CSS** e **JavaScript**.  
-Exibe o tempo no formato `hh:mm:ss.mmm` (horas, minutos, segundos e milissegundos) com botões para iniciar, pausar e resetar o tempo.
-
----
-
-## Funcionalidades
-
-- Iniciar / continuar o cronômetro  
-- Parar o cronômetro  
-- Resetar para zero  
-- Visual moderno em preto, branco e prata  
-- Layout responsivo para desktop e dispositivos móveis  
+Este é um projeto simples de cronômetro feito com HTML, CSS e JavaScript, criado para praticar o uso das funções setInterval e clearInterval para controlar a contagem do tempo.
+O layout é moderno, limpo e também responsivo para diferentes tamanhos de tela.
 
 ---
 
-## Tecnologias utilizadas
 
-- HTML5  
-- CSS3 (com responsividade e estilo clean)  
-- JavaScript (setInterval, manipulação do DOM)
+## 📱 Versão Responsiva (Mobile)  
+Visualização adaptada para celulares:  
 
----
+Cronômetro em celular com layout ajustado e botões grandes  
 
-## Como usar
-
-1. Clone ou baixe o repositório:  
-   `git clone https://github.com/seuusuario/cronometro-js.git`
-
-2. Abra o arquivo `index.html` no seu navegador.
-
-3. Use os botões para controlar o cronômetro.
+<p align="center">
+  <img src="assets/img-responsiva.png" alt="Imagem responsiva do cronômetro" width="200" />
+</p>
 
 ---
 
-## Estrutura do projeto
+## 🛠️ Tecnologias Utilizadas  
+HTML5  
+CSS3  
+JavaScript  
 
+---
+
+Você pode visualizar meu projeto em:  
+https://adriciachiarini.github.io/cronometro-js
